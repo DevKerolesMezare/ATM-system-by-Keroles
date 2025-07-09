@@ -1,0 +1,155 @@
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.exe.config
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.exe
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.pdb
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMBusinessLayer.dll
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMBusinessLayer.pdb
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.AssemblyReference.cache
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.GenerateResource.cache
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinFo.CCF7CECD.Up2Date
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.exe
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.pdb
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMDataAccessLayer.dll
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMDataAccessLayer.pdb
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Form1.resources
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmTest.resources
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmLogin.resources
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmMain.resources
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Properties.Resources.resources
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.ctrlClientInfo.resources
+D:\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmClientInfo.resources
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.exe.config
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.exe
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.pdb
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMBusinessLayer.dll
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMDataAccessLayer.dll
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMBusinessLayer.pdb
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMDataAccessLayer.pdb
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.AssemblyReference.cache
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Form1.resources
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmTest.resources
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Properties.Resources.resources
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.ctrlClientInfo.resources
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmClientInfo.resources
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmLogin.resources
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmMain.resources
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.GenerateResource.cache
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.CoreCompileInputs.cache
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinFo.CCF7CECD.Up2Date
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.exe
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.pdb
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmPanal.resources
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmDeposit.resources
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmNormalWithdraw.resources
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmChangePinCode.resources
+D:\keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmQuickWithdraw.resources
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.exe.config
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.exe
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.pdb
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMBusinessLayer.dll
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMDataAccessLayer.dll
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMBusinessLayer.pdb
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMDataAccessLayer.pdb
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.AssemblyReference.cache
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Form1.resources
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmPanal.resources
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmTest.resources
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Properties.Resources.resources
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.ctrlClientInfo.resources
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmChangePinCode.resources
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmClientInfo.resources
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmDeposit.resources
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmLogin.resources
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmMain.resources
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmNormalWithdraw.resources
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmQuickWithdraw.resources
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.GenerateResource.cache
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.CoreCompileInputs.cache
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinFo.CCF7CECD.Up2Date
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.exe
+D:\keroles\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.pdb
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.exe.config
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.exe
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.pdb
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMBusinessLayer.dll
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMDataAccessLayer.dll
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMBusinessLayer.pdb
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMDataAccessLayer.pdb
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.AssemblyReference.cache
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Form1.resources
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmPanal.resources
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmTest.resources
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Properties.Resources.resources
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.ctrlClientInfo.resources
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmChangePinCode.resources
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmClientInfo.resources
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmDeposit.resources
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmLogin.resources
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmMain.resources
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmNormalWithdraw.resources
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmQuickWithdraw.resources
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.GenerateResource.cache
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.CoreCompileInputs.cache
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinFo.CCF7CECD.Up2Date
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.exe
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.pdb
+D:\keroles\Project\TWst\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.ATM_Screens.frmCurrencyExchange.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.exe.config
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.exe
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.pdb
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMBusinessLayer.dll
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMDataAccessLayer.dll
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMBusinessLayer.pdb
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMDataAccessLayer.pdb
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.AssemblyReference.cache
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Form1.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmPanal.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmTest.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Properties.Resources.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.ctrlClientInfo.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmChangePinCode.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmClientInfo.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmDeposit.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmLogin.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmMain.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmNormalWithdraw.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmQuickWithdraw.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.GenerateResource.cache
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.CoreCompileInputs.cache
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinFo.CCF7CECD.Up2Date
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.exe
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.pdb
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.ATM_Screens.frmCurrencyExchange.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmTestAddNew.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmAdd_Update_Client.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.ATM_Screens.frmListClients.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmMainMenue.resources
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.exe.config
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.exe.config
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.exe
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.pdb
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMBusinessLayer.dll
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMDataAccessLayer.dll
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMBusinessLayer.pdb
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMDataAccessLayer.pdb
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.AssemblyReference.cache
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.ATM_Screens.frmCurrencyExchange.resources
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.ATM_Screens.frmListClients.resources
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmAdd_Update_Client.resources
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmMainMenue.resources
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmTest.resources
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmTestAddNew.resources
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Properties.Resources.resources
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.ctrlClientInfo.resources
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmChangePinCode.resources
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmClientInfo.resources
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmDeposit.resources
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmLogin.resources
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmMain.resources
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmNormalWithdraw.resources
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmQuickWithdraw.resources
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.GenerateResource.cache
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.CoreCompileInputs.cache
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinFo.CCF7CECD.Up2Date
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.exe
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.pdb

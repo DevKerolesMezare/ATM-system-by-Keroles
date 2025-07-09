@@ -1,0 +1,24 @@
+D:\Semple ATM Project\ATMDataAccessLayer\bin\Debug\ATMDataAccessLayer.dll
+D:\Semple ATM Project\ATMDataAccessLayer\bin\Debug\ATMDataAccessLayer.pdb
+D:\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.csproj.AssemblyReference.cache
+D:\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.dll
+D:\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.pdb
+D:\keroles\Semple ATM Project\ATMDataAccessLayer\bin\Debug\ATMDataAccessLayer.dll
+D:\keroles\Semple ATM Project\ATMDataAccessLayer\bin\Debug\ATMDataAccessLayer.pdb
+D:\keroles\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.csproj.AssemblyReference.cache
+D:\keroles\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\keroles\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.dll
+D:\keroles\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.pdb
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMDataAccessLayer\bin\Debug\ATMDataAccessLayer.dll
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMDataAccessLayer\bin\Debug\ATMDataAccessLayer.pdb
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.csproj.AssemblyReference.cache
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.dll
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.pdb
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMDataAccessLayer\bin\Debug\ATMDataAccessLayer.dll
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMDataAccessLayer\bin\Debug\ATMDataAccessLayer.pdb
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.csproj.AssemblyReference.cache
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.dll
+D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.pdb

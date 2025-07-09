@@ -1,0 +1,6 @@
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMDataAccessLayer\bin\Release\ATMDataAccessLayer.dll
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMDataAccessLayer\bin\Release\ATMDataAccessLayer.pdb
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMDataAccessLayer\obj\Release\ATMDataAccessLayer.csproj.AssemblyReference.cache
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMDataAccessLayer\obj\Release\ATMDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMDataAccessLayer\obj\Release\ATMDataAccessLayer.dll
+D:\keroles\Project\Project\Project code\Semple ATM Project\ATMDataAccessLayer\obj\Release\ATMDataAccessLayer.pdb

@@ -1,0 +1,150 @@
+Login Regisotry To System: 
+Record Info: Login Successful  -  Client Name: Keroles Mezare  -  Client ID: 1  -  Date Time: 6/24/2025 3:17:01 AM  -  Account Number: A102  -  PinCode:1234
+
+Login Regisotry To System: 
+Record Info: Login Successful  -  Client Name: Keroles Mezare  -  Client ID: 51  -  Date Time: 6/24/2025 3:36:49 AM  -  Account Number: A105  -  PinCode:1234
+
+Login Regisotry To System: 
+Record Info: Login Successful  -  Client Name: Keroles Mezare  -  Client ID: 1  -  Date Time: 6/24/2025 3:38:56 AM  -  Account Number: A102  -  PinCode:1234
+
+Login Regisotry To System: 
+Record Info: Login Successful  -  Client Name: Keroles Mezare  -  Client ID: 1  -  Date Time: 6/24/2025 3:41:07 AM  -  Account Number: A102  -  PinCode:1234
+
+Login Registry To System: 
+Record Info: Login Successful  -  Client Name: Keroles Mezare  -  Client ID: 50  -  Date Time: 6/26/2025 4:49:58 AM  -  Account Number: A104  -  PinCode:1234
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 9:41:28 PM  -  Account Number: A102  -  PinCode:333
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 9:41:39 PM  -  Account Number: A102  -  PinCode:332
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 9:41:41 PM  -  Account Number: A102  -  PinCode:332
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 9:45:52 PM  -  Account Number: 123  -  PinCode:142
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 9:45:56 PM  -  Account Number: 123  -  PinCode:1423
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 9:45:59 PM  -  Account Number: 1233  -  PinCode:1423
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 9:47:49 PM  -  Account Number: 2134  -  PinCode:123
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 9:50:09 PM  -  Account Number: A102  -  PinCode:3333
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 9:50:13 PM  -  Account Number: A102  -  PinCode:33332
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 9:50:16 PM  -  Account Number: A102  -  PinCode:334332
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:00:27 PM  -  Account Number: A102112  -  PinCode:41234
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:00:30 PM  -  Account Number: A102112  -  PinCode:43
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:00:35 PM  -  Account Number: A102112  -  PinCode:4312
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:09:32 PM  -  Account Number: ِ2323  -  PinCode:234
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:09:35 PM  -  Account Number: 234  -  PinCode:234234
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:09:38 PM  -  Account Number: 234  -  PinCode:234234324
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:11:44 PM  -  Account Number: 23  -  PinCode:23
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:11:47 PM  -  Account Number: 2323  -  PinCode:23
+
+Login Registry To System: 
+Record Info: Login Successful  -  Client Name: Keroles Mezare  -  Client ID: 1  -  Date Time: 6/27/2025 10:11:52 PM  -  Account Number: A102  -  PinCode:1234
+
+Login Registry To System: 
+Record Info: Login Successful  -  Client Name: Markila gamel  -  Client ID: 20  -  Date Time: 6/27/2025 10:12:00 PM  -  Account Number: A103  -  PinCode:1234
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:12:06 PM  -  Account Number: A12  -  PinCode:1232
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:12:43 PM  -  Account Number: A102  -  PinCode:333
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:12:47 PM  -  Account Number: A102  -  PinCode:444
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:12:49 PM  -  Account Number: A102  -  PinCode:555
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:32:13 PM  -  Account Number: A102  -  PinCode:3333
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:32:44 PM  -  Account Number: A102  -  PinCode:1111
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:32:46 PM  -  Account Number: A102  -  PinCode:2222
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:32:49 PM  -  Account Number: A102  -  PinCode:4444
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:36:28 PM  -  Account Number: A102  -  PinCode:1111
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:36:30 PM  -  Account Number: A102  -  PinCode:1113
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/27/2025 10:36:34 PM  -  Account Number: A102  -  PinCode:4444
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/28/2025 2:18:24 PM  -  Account Number: A102  -  PinCode:123
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/28/2025 2:18:28 PM  -  Account Number: A102  -  PinCode:2222
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/28/2025 2:18:31 PM  -  Account Number: A102  -  PinCode:2344
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/28/2025 2:20:08 PM  -  Account Number: A102  -  PinCode:1111
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/28/2025 2:20:11 PM  -  Account Number: A102  -  PinCode:2222
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 6/28/2025 2:20:14 PM  -  Account Number: A102  -  PinCode:3333
+
+Login Registry To System: 
+Record Info: Login Successful  -  Client Name: Keroles Mezare  -  Client ID: 1  -  Date Time: 7/2/2025 9:29:05 PM  -  Account Number: A102  -  PinCode:1234
+
+Login Registry To System: 
+Record Info: Login Successful  -  Client Name: Markila gamel  -  Client ID: 20  -  Date Time: 7/5/2025 6:06:59 PM  -  Account Number: A103  -  PinCode:1234
+
+Login Registry To System: 
+Record Info: Login Successful  -  Client Name: Keroles Mezare  -  Client ID: 50  -  Date Time: 7/5/2025 6:07:33 PM  -  Account Number: A104  -  PinCode:1234
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 7/5/2025 6:09:46 PM  -  Account Number: A104  -  PinCode:1234
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 7/5/2025 6:09:51 PM  -  Account Number: A1044  -  PinCode:1234
+
+Login Registry To System: 
+Record Info: Login Successful  -  Client Name: Keroles Mezare  -  Client ID: 50  -  Date Time: 7/5/2025 6:09:55 PM  -  Account Number: A104  -  PinCode:12344
+
+Login Registry To System: 
+Record Info: Login Successful  -  Client Name: Keroles Mezare  -  Client ID: 50  -  Date Time: 7/7/2025 4:13:55 AM  -  Account Number: A104  -  PinCode:12344
+
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 7/8/2025 3:33:55 PM  -  Account Number:   -  PinCode:
+
