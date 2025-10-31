@@ -153,3 +153,32 @@ D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-Pre
 D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinFo.CCF7CECD.Up2Date
 D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.exe
 D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.pdb
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.exe.config
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.exe
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMConsolApp-PresentationLayer.pdb
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMBusinessLayer.dll
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMDataAccessLayer.dll
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMBusinessLayer.pdb
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\bin\Debug\ATMDataAccessLayer.pdb
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.exe.config
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.ATM_Screens.frmCurrencyExchange.resources
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.ATM_Screens.frmListClients.resources
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmAdd_Update_Client.resources
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmMainMenue.resources
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmTest.resources
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.frmTestAddNew.resources
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Properties.Resources.resources
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.ctrlClientInfo.resources
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmChangePinCode.resources
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmClientInfo.resources
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmDeposit.resources
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmLogin.resources
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmMain.resources
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmNormalWithdraw.resources
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp_PresentationLayer.Transactions.frmQuickWithdraw.resources
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinForm-PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMWinFo.CCF7CECD.Up2Date
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.exe
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMConsolApp-PresentationLayer\obj\Debug\ATMConsolApp-PresentationLayer.pdb

@@ -148,3 +148,15 @@ Record Info: Login Successful  -  Client Name: Keroles Mezare  -  Client ID: 50 
 Login Registry To System: 
 Record Info: Login Failed  -  Date Time: 7/8/2025 3:33:55 PM  -  Account Number:   -  PinCode:
 
+Login Registry To System: 
+Record Info: Login Failed  -  Date Time: 7/26/2025 6:36:54 AM  -  Account Number: A101  -  PinCode:1234
+
+Login Registry To System: 
+Record Info: Login Successful  -  Client Name: Keroles Mezare  -  Client ID: 1  -  Date Time: 8/28/2025 4:35:48 PM  -  Account Number: A102  -  PinCode:1234
+
+Login Registry To System: 
+Record Info: Login Successful  -  Client Name: Keroles Mezare  -  Client ID: 50  -  Date Time: 9/4/2025 5:27:05 AM  -  Account Number: A104  -  PinCode:12344
+
+Login Registry To System: 
+Record Info: Login Successful  -  Client Name: Keroles Mezare  -  Client ID: 1  -  Date Time: 10/31/2025 7:56:16 PM  -  Account Number: A102  -  PinCode:1234
+

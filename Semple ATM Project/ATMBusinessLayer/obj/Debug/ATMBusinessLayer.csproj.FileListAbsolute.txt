@@ -52,3 +52,12 @@ D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMBusinessLayer
 D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMBusinessLayer\obj\Debug\ATMBusin.7E809A03.Up2Date
 D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMBusinessLayer\obj\Debug\ATMBusinessLayer.dll
 D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMBusinessLayer\obj\Debug\ATMBusinessLayer.pdb
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMBusinessLayer\bin\Debug\ATMBusinessLayer.dll
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMBusinessLayer\bin\Debug\ATMBusinessLayer.pdb
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMBusinessLayer\bin\Debug\ATMDataAccessLayer.dll
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMBusinessLayer\bin\Debug\ATMDataAccessLayer.pdb
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMBusinessLayer\obj\Debug\ATMBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMBusinessLayer\obj\Debug\ATMBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMBusinessLayer\obj\Debug\ATMBusin.7E809A03.Up2Date
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMBusinessLayer\obj\Debug\ATMBusinessLayer.dll
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMBusinessLayer\obj\Debug\ATMBusinessLayer.pdb

@@ -1,26 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\keroles\\Project _ATM\\Project\\Project code\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\",
+  "WorkspaceRootPath": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|d:\\keroles\\project _atm\\project\\project code\\semple atm project\\atmconsolapp-presentationlayer\\atm screens\\add_new  list client _ account info\\frmchangepincode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|solutionrelative:atm screens\\add_new  list client _ account info\\frmchangepincode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|c:\\users\\ideapad gaming\\downloads\\my-github\\atm-system-by-keroles\\semple atm project\\atmconsolapp-presentationlayer\\frmtestaddnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|solutionrelative:frmtestaddnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|D:\\keroles\\Project _ATM\\Project\\Project code\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\atm screens\\add_new  list client _ account info\\frmchangepincode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|solutionrelative:atm screens\\add_new  list client _ account info\\frmchangepincode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|c:\\users\\ideapad gaming\\downloads\\my-github\\atm-system-by-keroles\\semple atm project\\atmconsolapp-presentationlayer\\frmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|solutionrelative:frmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|D:\\keroles\\Project _ATM\\Project\\Project code\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\atm screens\\add_new  list client _ account info\\frmadd_update_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|solutionrelative:atm screens\\add_new  list client _ account info\\frmadd_update_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|c:\\users\\ideapad gaming\\downloads\\my-github\\atm-system-by-keroles\\semple atm project\\atmconsolapp-presentationlayer\\clstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|solutionrelative:clstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|D:\\keroles\\Project _ATM\\Project\\Project code\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\atm screens\\frmmainmenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|c:\\users\\ideapad gaming\\downloads\\my-github\\atm-system-by-keroles\\semple atm project\\atmconsolapp-presentationlayer\\atm screens\\frmmainmenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|solutionrelative:atm screens\\frmmainmenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|D:\\keroles\\Project _ATM\\Project\\Project code\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\atm screens\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|c:\\users\\ideapad gaming\\downloads\\my-github\\atm-system-by-keroles\\semple atm project\\atmconsolapp-presentationlayer\\atm screens\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|solutionrelative:atm screens\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|c:\\users\\ideapad gaming\\downloads\\my-github\\atm-system-by-keroles\\semple atm project\\atmconsolapp-presentationlayer\\atm screens\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|solutionrelative:atm screens\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|c:\\users\\ideapad gaming\\downloads\\my-github\\atm-system-by-keroles\\semple atm project\\atmconsolapp-presentationlayer\\atm screens\\transaction screen\\frmquickwithdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|solutionrelative:atm screens\\transaction screen\\frmquickwithdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|c:\\users\\ideapad gaming\\downloads\\my-github\\atm-system-by-keroles\\semple atm project\\atmconsolapp-presentationlayer\\atm screens\\transaction screen\\frmnormalwithdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|solutionrelative:atm screens\\transaction screen\\frmnormalwithdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|c:\\users\\ideapad gaming\\downloads\\my-github\\atm-system-by-keroles\\semple atm project\\atmconsolapp-presentationlayer\\atm screens\\transaction screen\\frmdeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|solutionrelative:atm screens\\transaction screen\\frmdeposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|c:\\users\\ideapad gaming\\downloads\\my-github\\atm-system-by-keroles\\semple atm project\\atmconsolapp-presentationlayer\\atm screens\\transaction screen\\frmcurrencyexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F0FD505D-C0C6-4C66-B652-789543764D28}|ATMWinForm-PresentationLayer.csproj|solutionrelative:atm screens\\transaction screen\\frmcurrencyexchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,10 +54,6 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
@@ -45,61 +61,129 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmChangePinCode.cs",
-              "DocumentMoniker": "D:\\keroles\\Project _ATM\\Project\\Project code\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\Add_New  List Client _ Account Info\\frmChangePinCode.cs",
-              "RelativeDocumentMoniker": "ATM Screens\\Add_New  List Client _ Account Info\\frmChangePinCode.cs",
-              "ToolTip": "D:\\keroles\\Project _ATM\\Project\\Project code\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\Add_New  List Client _ Account Info\\frmChangePinCode.cs",
-              "RelativeToolTip": "ATM Screens\\Add_New  List Client _ Account Info\\frmChangePinCode.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T14:16:41.336Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "D:\\keroles\\Project _ATM\\Project\\Project code\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\frmLogin.cs",
-              "RelativeDocumentMoniker": "ATM Screens\\frmLogin.cs",
-              "ToolTip": "D:\\keroles\\Project _ATM\\Project\\Project code\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\frmLogin.cs [Design]",
-              "RelativeToolTip": "ATM Screens\\frmLogin.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "frmTestAddNew.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\frmTestAddNew.cs",
+              "RelativeDocumentMoniker": "frmTestAddNew.cs",
+              "ToolTip": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\frmTestAddNew.cs [Design]*",
+              "RelativeToolTip": "frmTestAddNew.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T12:32:43.372Z"
+              "WhenOpened": "2025-10-31T17:55:54.886Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\frmTest.cs",
+              "RelativeDocumentMoniker": "frmTest.cs",
+              "ToolTip": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\frmTest.cs [Design]",
+              "RelativeToolTip": "frmTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:55:52.787Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsTest.cs",
+              "DocumentMoniker": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\clsTest.cs",
+              "RelativeDocumentMoniker": "clsTest.cs",
+              "ToolTip": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\clsTest.cs",
+              "RelativeToolTip": "clsTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:55:51.654Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "frmMainMenue.cs [Design]",
-              "DocumentMoniker": "D:\\keroles\\Project _ATM\\Project\\Project code\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\frmMainMenue.cs",
+              "DocumentMoniker": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\frmMainMenue.cs",
               "RelativeDocumentMoniker": "ATM Screens\\frmMainMenue.cs",
-              "ToolTip": "D:\\keroles\\Project _ATM\\Project\\Project code\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\frmMainMenue.cs [Design]",
+              "ToolTip": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\frmMainMenue.cs [Design]",
               "RelativeToolTip": "ATM Screens\\frmMainMenue.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T01:13:33.083Z"
+              "WhenOpened": "2025-10-31T17:55:49.967Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmAdd_Update_Client.cs [Design]",
-              "DocumentMoniker": "D:\\keroles\\Project _ATM\\Project\\Project code\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\Add_New  List Client _ Account Info\\frmAdd_Update_Client.cs",
-              "RelativeDocumentMoniker": "ATM Screens\\Add_New  List Client _ Account Info\\frmAdd_Update_Client.cs",
-              "ToolTip": "D:\\keroles\\Project _ATM\\Project\\Project code\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\Add_New  List Client _ Account Info\\frmAdd_Update_Client.cs [Design]",
-              "RelativeToolTip": "ATM Screens\\Add_New  List Client _ Account Info\\frmAdd_Update_Client.cs [Design]",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\frmMain.cs",
+              "RelativeDocumentMoniker": "ATM Screens\\frmMain.cs",
+              "ToolTip": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\frmMain.cs [Design]",
+              "RelativeToolTip": "ATM Screens\\frmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T01:09:54.425Z"
+              "WhenOpened": "2025-10-31T17:55:49.138Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmChangePinCode.cs [Design]",
-              "DocumentMoniker": "D:\\keroles\\Project _ATM\\Project\\Project code\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\Add_New  List Client _ Account Info\\frmChangePinCode.cs",
-              "RelativeDocumentMoniker": "ATM Screens\\Add_New  List Client _ Account Info\\frmChangePinCode.cs",
-              "ToolTip": "D:\\keroles\\Project _ATM\\Project\\Project code\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\Add_New  List Client _ Account Info\\frmChangePinCode.cs [Design]",
-              "RelativeToolTip": "ATM Screens\\Add_New  List Client _ Account Info\\frmChangePinCode.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\frmLogin.cs",
+              "RelativeDocumentMoniker": "ATM Screens\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\frmLogin.cs [Design]",
+              "RelativeToolTip": "ATM Screens\\frmLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T01:09:53.685Z"
+              "WhenOpened": "2025-10-31T17:55:48.061Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmQuickWithdraw.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\Transaction Screen\\frmQuickWithdraw.cs",
+              "RelativeDocumentMoniker": "ATM Screens\\Transaction Screen\\frmQuickWithdraw.cs",
+              "ToolTip": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\Transaction Screen\\frmQuickWithdraw.cs [Design]",
+              "RelativeToolTip": "ATM Screens\\Transaction Screen\\frmQuickWithdraw.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:55:46.094Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmNormalWithdraw.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\Transaction Screen\\frmNormalWithdraw.cs",
+              "RelativeDocumentMoniker": "ATM Screens\\Transaction Screen\\frmNormalWithdraw.cs",
+              "ToolTip": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\Transaction Screen\\frmNormalWithdraw.cs [Design]",
+              "RelativeToolTip": "ATM Screens\\Transaction Screen\\frmNormalWithdraw.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:55:44.994Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmDeposit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\Transaction Screen\\frmDeposit.cs",
+              "RelativeDocumentMoniker": "ATM Screens\\Transaction Screen\\frmDeposit.cs",
+              "ToolTip": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\Transaction Screen\\frmDeposit.cs [Design]",
+              "RelativeToolTip": "ATM Screens\\Transaction Screen\\frmDeposit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:55:43.616Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmCurrencyExchange.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\Transaction Screen\\frmCurrencyExchange.cs",
+              "RelativeDocumentMoniker": "ATM Screens\\Transaction Screen\\frmCurrencyExchange.cs",
+              "ToolTip": "C:\\Users\\Ideapad Gaming\\Downloads\\My-GitHub\\ATM-system-by-Keroles\\Semple ATM Project\\ATMConsolApp-PresentationLayer\\ATM Screens\\Transaction Screen\\frmCurrencyExchange.cs [Design]",
+              "RelativeToolTip": "ATM Screens\\Transaction Screen\\frmCurrencyExchange.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T17:55:41.761Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

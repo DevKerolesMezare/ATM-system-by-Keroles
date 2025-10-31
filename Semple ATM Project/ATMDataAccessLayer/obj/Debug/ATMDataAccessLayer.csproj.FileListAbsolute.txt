@@ -22,3 +22,9 @@ D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMDataAccessLay
 D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.csproj.CoreCompileInputs.cache
 D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.dll
 D:\keroles\Project _ATM\Project\Project code\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.pdb
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMDataAccessLayer\bin\Debug\ATMDataAccessLayer.dll
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMDataAccessLayer\bin\Debug\ATMDataAccessLayer.pdb
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.dll
+C:\Users\Ideapad Gaming\Downloads\My-GitHub\ATM-system-by-Keroles\Semple ATM Project\ATMDataAccessLayer\obj\Debug\ATMDataAccessLayer.pdb
